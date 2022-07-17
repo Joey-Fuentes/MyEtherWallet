@@ -53,7 +53,7 @@ If you find a bug, or want a new feature added, please submit it on the [Github 
 ## Getting started
 
 1. Open terminal
-2. Clone the repo: `git clone git@github.com:MyEtherWallet/MyEtherWallet.git`
+2. Clone the repo: `git clone https://github.com/Joey-Fuentes/MyEtherWallet.git`
 3. run `npm ci` to install node packages.
 4. run `npm run build`. You can also use the offline version by opening the index file from the dist folder with your preferred browser
 5. start `npm start`
